@@ -178,8 +178,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-Programmed By: G.Cheth
-
+Programmed By: kathiravan
+ref.no:212222230063
 ```
 ## Output screen shots of proteus  :
  ![i2](https://github.com/kathiravan13/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119831303/086d8794-e039-4f36-81ac-70ed2ba32517)
